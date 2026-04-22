@@ -2,10 +2,10 @@
 CGPA Simulator — a free tool to find out what you need to score next semester to hit your target CGPA.
 
 ## Live Demo
-[Live demo](https://cgpa-simulator.vercel.app) — *I will update the URL.*
+[Live demo](https://cgpa-simulator.vercel.app)
 
 ## What it does
-The CGPA Simulator calculates the minimum semester GPA and per-course score a student needs to reach their target CGPA. It supports both the Nigerian 5.0 grading scale and the International 4.0 grading scale via a simple toggle. There is no login, no account required, and no data is stored anywhere — your results live entirely in the browser memory and reset completely on refresh.
+The CGPA Simulator calculates the minimum semester GPA and per-course score a student needs to reach their target CGPA. It supports both the Nigerian 5.0 grading scale and the International 4.0 grading scale via a simple toggle. There is no login, no account required, and no data is stored anywhere, your results live entirely in the browser memory and reset completely on refresh.
 
 ## How to use it
 1. Enter your current CGPA.
