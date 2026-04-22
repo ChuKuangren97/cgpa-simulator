@@ -1,5 +1,5 @@
 # CGPA Simulator
-CGPA Simulator — a free tool to find out what you need to score next semester to hit your target CGPA.
+CGPA Simulator: a free tool to find out what you need to score next semester to hit your target CGPA.
 
 ## Live Demo
 [Live demo](https://cgpa-simulator.vercel.app)
